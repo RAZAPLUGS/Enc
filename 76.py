@@ -1,4 +1,4 @@
-#Obfuscated Through @pythonEncoderbybot Made By @botplays90
+print(" HARD ENC BY ~ PRAVEEN | PyObscura ")
 
 class Hyponet():
  def __decode__(self:object,_execute:str)->exec:return(None,self._decode(_execute))[0]
